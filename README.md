@@ -23,4 +23,5 @@ There are alot of interesting lessons you can learn from the chanel of Google te
 ```
 https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ
 ```
-Next part you can see in the file breast-cancer.ipynb that I changed a bit that we can run on our own computer
+### First deep neural network example with Tensorflow
+For this part, you can see in the file BreastCancer.ipynb that I changed a bit that we can run on our own computer
